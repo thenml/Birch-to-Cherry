@@ -1,0 +1,26 @@
+{
+    "biome.minecraft.birch_forest": "Cherry Grove",
+    "block.minecraft.birch_button": "Cherry Button",
+    "block.minecraft.birch_door": "Cherry Door",
+    "block.minecraft.birch_fence": "Cherry Fence",
+    "block.minecraft.birch_fence_gate": "Cherry Fence Gate",
+    "block.minecraft.birch_hanging_sign": "Cherry Hanging Sign",
+    "block.minecraft.birch_leaves": "Cherry Leaves",
+    "block.minecraft.birch_log": "Cherry Log",
+    "block.minecraft.birch_planks": "Cherry Planks",
+    "block.minecraft.birch_pressure_plate": "Cherry Pressure Plate",
+    "block.minecraft.birch_sapling": "Cherry Sapling",
+    "block.minecraft.birch_sign": "Cherry Sign",
+    "block.minecraft.birch_slab": "Cherry Slab",
+    "block.minecraft.birch_stairs": "Cherry Stairs",
+    "block.minecraft.birch_trapdoor": "Cherry Trapdoor",
+    "block.minecraft.birch_wall_hanging_sign": "Cherry Wall Hanging Sign",
+    "block.minecraft.birch_wall_sign": "Cherry Wall Sign",
+    "block.minecraft.birch_wood": "Cherry Wood",
+    "block.minecraft.potted_birch_sapling": "Potted Cherry Sapling",
+    "block.minecraft.stripped_birch_log": "Stripped Cherry Log",
+    "block.minecraft.stripped_birch_wood": "Stripped Cherry Wood",
+    "item.minecraft.birch_boat": "Cherry Boat",
+    "item.minecraft.birch_chest_boat": "Cherry Boat with Chest"
+      
+}
